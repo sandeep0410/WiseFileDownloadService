@@ -1,7 +1,7 @@
 
 public class Utils {
 	private static String[] serverList = {"10.0.0.8 4040 img_sandeep.jpg",
-	"10.0.0.8 4040 vid_sandeep.wmv"}; 
+	"10.0.0.8 4040 vid_sandeep.mp4"}; 
 
 	public static String[] getListofServers(){
 		return serverList;
